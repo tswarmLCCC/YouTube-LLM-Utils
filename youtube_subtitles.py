@@ -43,14 +43,25 @@ def returnEveryFourthLineFromFile(filePath):
 # result = returnEveryThirdLineFromFile('path/to/your/file.txt')
 # print(result)
 yt = YouTube(ollamaVid)
-
+yt = YouTube(nightwish)
 #print(yt.vid_details)
 
 subtitles = yt.captions
 #print(subtitles)
 
+languageCodes = ['a.en', 'en']
+caption = None
+i = 0 #len(languageCodes)
 
-caption = yt.captions.get_by_language_code('a.en')
+while not caption:
+    # will be caption = yt.captions[languageCodes[i]] soon - need to get first one
+    caption = yt.captions.get_by_language_code(languageCodes[i])
+    i +=1
+
+
+#if not caption:
+#    caption = yt.captions.get_by_language_code('en')
+
 if caption:
     caption.save_captions("captions2.txt")
     result = returnEveryFourthLineFromFile('captions2.txt').replace('\n', ' ')
