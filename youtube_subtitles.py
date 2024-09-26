@@ -8,7 +8,7 @@ from pytubefix import YouTube
 nightwish = 'https://www.youtube.com/watch?v=pvkYwOJZONU'
 #nightwish:  https://www.youtube.com/watch?v=pvkYwOJZONU
 ollamaVid = 'https://www.youtube.com/watch?v=5kMF6DEd3KM'
-
+gitHubVid = 'https://www.youtube.com/watch?v=6CwH_pXl7M0'
 
 def returnEveryThirdLine(inString):
     """
@@ -42,7 +42,7 @@ def returnEveryFourthLineFromFile(filePath):
 # Example usage:
 # result = returnEveryThirdLineFromFile('path/to/your/file.txt')
 # print(result)
-yt = YouTube(ollamaVid)
+yt = YouTube(gitHubVid)
 #yt = YouTube(nightwish)
 #print(yt.vid_details)
 
