@@ -3,7 +3,7 @@
 
 
 from pytubefix import YouTube
-from pytubefix.cli import on_progress
+#from pytubefix.cli import on_progress
 
 nightwish = 'https://www.youtube.com/watch?v=pvkYwOJZONU'
 #nightwish:  https://www.youtube.com/watch?v=pvkYwOJZONU
@@ -43,11 +43,16 @@ def returnEveryFourthLineFromFile(filePath):
 # result = returnEveryThirdLineFromFile('path/to/your/file.txt')
 # print(result)
 yt = YouTube(ollamaVid)
-yt = YouTube(nightwish)
+#yt = YouTube(nightwish)
 #print(yt.vid_details)
 
+
+
 subtitles = yt.captions
-#print(subtitles)
+print(subtitles)
+
+#firstItem = next(iter(subtitles.items()))[0]
+#print(firstItem)
 
 languageCodes = ['a.en', 'en']
 caption = None
