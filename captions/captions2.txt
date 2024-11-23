@@ -1,0 +1,1527 @@
+1
+00:00:00,640 --> 00:00:05,359
+hello um in this video I'd like to go
+
+2
+00:00:02,960 --> 00:00:09,120
+over how to navigate most of your
+
+3
+00:00:05,359 --> 00:00:10,639
+assignments and use a webbased um
+
+4
+00:00:09,120 --> 00:00:13,679
+development environment we're going to
+
+5
+00:00:10,639 --> 00:00:16,279
+use in this um course called repet this
+
+6
+00:00:13,679 --> 00:00:18,400
+replaces using um integrated develop
+
+7
+00:00:16,279 --> 00:00:22,240
+environments if you've used them before
+
+8
+00:00:18,400 --> 00:00:24,199
+and should simplify our grading and um
+
+9
+00:00:22,240 --> 00:00:26,119
+grading process but also how how I can
+
+10
+00:00:24,199 --> 00:00:29,279
+help you if you run in run into
+
+11
+00:00:26,119 --> 00:00:31,920
+something so if you're looking at canvas
+
+12
+00:00:29,279 --> 00:00:34,320
+and you're for example navigating say
+
+13
+00:00:31,920 --> 00:00:37,000
+week three here you'll notice that in
+
+14
+00:00:34,320 --> 00:00:38,719
+your assignment here um you'll have a
+
+15
+00:00:37,000 --> 00:00:41,640
+guided learning um and that's just the
+
+16
+00:00:38,719 --> 00:00:44,520
+reading from our zy books um and then
+
+17
+00:00:41,640 --> 00:00:46,879
+you also have a a graded assignment most
+
+18
+00:00:44,520 --> 00:00:48,760
+weeks if you click into that it will
+
+19
+00:00:46,879 --> 00:00:52,399
+look like this and it'll give you
+
+20
+00:00:48,760 --> 00:00:55,600
+basically some um uh information about
+
+21
+00:00:52,399 --> 00:01:00,120
+the actual um assignment and then it'll
+
+22
+00:00:55,600 --> 00:01:02,440
+have this repet repository link um and
+
+23
+00:01:00,120 --> 00:01:05,960
+if I clicked this it would look like
+
+24
+00:01:02,440 --> 00:01:08,560
+this to me I'm sorry it looks like this
+
+25
+00:01:05,960 --> 00:01:11,159
+to me for example this is a Hello World
+
+26
+00:01:08,560 --> 00:01:13,000
+example um but this is the solution for
+
+27
+00:01:11,159 --> 00:01:14,920
+the instructor so it'll look a little
+
+28
+00:01:13,000 --> 00:01:16,320
+different um for you it'll look more
+
+29
+00:01:14,920 --> 00:01:20,840
+like
+
+30
+00:01:16,320 --> 00:01:24,000
+this um if you went directly to hello
+
+31
+00:01:20,840 --> 00:01:26,320
+world here and it might spin up let
+
+32
+00:01:24,000 --> 00:01:28,040
+while and say navigating if if the if
+
+33
+00:01:26,320 --> 00:01:30,280
+the if repet has been updated and things
+
+34
+00:01:28,040 --> 00:01:32,240
+like that but it'll look a lot like this
+
+35
+00:01:30,280 --> 00:01:34,520
+this sort of structure and what you have
+
+36
+00:01:32,240 --> 00:01:36,159
+here is a code navigation window and
+
+37
+00:01:34,520 --> 00:01:38,479
+then kind of a tool window but you can
+
+38
+00:01:36,159 --> 00:01:40,640
+put these anywhere um often when you
+
+39
+00:01:38,479 --> 00:01:42,520
+come in this one's pretty generic but
+
+40
+00:01:40,640 --> 00:01:44,880
+that your assignments will usually have
+
+41
+00:01:42,520 --> 00:01:46,320
+the instructions copied here as well and
+
+42
+00:01:44,880 --> 00:01:47,799
+I usually put them in the comments as
+
+43
+00:01:46,320 --> 00:01:50,000
+well although you should change those
+
+44
+00:01:47,799 --> 00:01:53,360
+comments to do your own documentation as
+
+45
+00:01:50,000 --> 00:01:55,399
+you implement your work um but you can
+
+46
+00:01:53,360 --> 00:01:57,600
+for example put this over here or you
+
+47
+00:01:55,399 --> 00:01:58,799
+can put the shell over here you can
+
+48
+00:01:57,600 --> 00:02:00,920
+basically do whatever you want you can
+
+49
+00:01:58,799 --> 00:02:02,479
+even put them down here if you like um
+
+50
+00:02:00,920 --> 00:02:06,039
+things like that so you can navigate
+
+51
+00:02:02,479 --> 00:02:08,520
+things quite nicely that way um and the
+
+52
+00:02:06,039 --> 00:02:11,360
+really nice thing about repet um let's
+
+53
+00:02:08,520 --> 00:02:13,680
+see if I can um kind of demonstrate this
+
+54
+00:02:11,360 --> 00:02:15,120
+is it's basically a collaborative
+
+55
+00:02:13,680 --> 00:02:17,840
+environment that's kind of how it got it
+
+56
+00:02:15,120 --> 00:02:20,080
+start but um they decided to make a
+
+57
+00:02:17,840 --> 00:02:22,680
+version for educators which can be very
+
+58
+00:02:20,080 --> 00:02:24,239
+very nice so let's uh pretend you for
+
+59
+00:02:22,680 --> 00:02:26,959
+example didn't know how to spell Hello
+
+60
+00:02:24,239 --> 00:02:29,319
+World in your very first program and you
+
+61
+00:02:26,959 --> 00:02:33,080
+wanted to get help you could highlight
+
+62
+00:02:29,319 --> 00:02:35,080
+the code here and go into threads down
+
+63
+00:02:33,080 --> 00:02:38,680
+here start thread and it's going to
+
+64
+00:02:35,080 --> 00:02:39,959
+basically pop this thing up and say um
+
+65
+00:02:38,680 --> 00:02:44,239
+what do you want to say about this and
+
+66
+00:02:39,959 --> 00:02:46,319
+say I don't know how to spell hello
+
+67
+00:02:44,239 --> 00:02:48,599
+which is silly of course but um you can
+
+68
+00:02:46,319 --> 00:02:51,200
+get help for anything like that and it
+
+69
+00:02:48,599 --> 00:02:53,319
+will it will start that now this is tarm
+
+70
+00:02:51,200 --> 00:02:55,959
+me as a test student but let me show you
+
+71
+00:02:53,319 --> 00:02:56,959
+what that looks like on my end if I get
+
+72
+00:02:55,959 --> 00:03:00,360
+um a
+
+73
+00:02:56,959 --> 00:03:02,680
+notification um back uh where' It Go let
+
+74
+00:03:00,360 --> 00:03:06,440
+back here and see so I get a
+
+75
+00:03:02,680 --> 00:03:09,959
+notification here that um that a student
+
+76
+00:03:06,440 --> 00:03:13,319
+left me um a comment and I can actually
+
+77
+00:03:09,959 --> 00:03:15,920
+click the thing and it'll load on my
+
+78
+00:03:13,319 --> 00:03:21,560
+end and uh you can see there that it
+
+79
+00:03:15,920 --> 00:03:24,080
+popped up and it um it uh it will let me
+
+80
+00:03:21,560 --> 00:03:26,280
+um you know I can I can review the
+
+81
+00:03:24,080 --> 00:03:29,239
+comment things like that so if I I
+
+82
+00:03:26,280 --> 00:03:31,000
+wanted to do that um I can I can review
+
+83
+00:03:29,239 --> 00:03:33,239
+things like that and I can also just
+
+84
+00:03:31,000 --> 00:03:36,120
+bring up um and so can you bring up
+
+85
+00:03:33,239 --> 00:03:37,480
+threads so in here I can see that I
+
+86
+00:03:36,120 --> 00:03:41,319
+don't know how to spell so I can just
+
+87
+00:03:37,480 --> 00:03:44,040
+click this and say it's
+
+88
+00:03:41,319 --> 00:03:45,640
+spelled hello so you can get a lot of
+
+89
+00:03:44,040 --> 00:03:47,799
+help that way and I can even resolve it
+
+90
+00:03:45,640 --> 00:03:50,480
+right here or so can you um so if I
+
+91
+00:03:47,799 --> 00:03:53,120
+resolve this and we went back over as to
+
+92
+00:03:50,480 --> 00:03:54,879
+my St test student you'll see that it
+
+93
+00:03:53,120 --> 00:03:56,799
+popped up here and said he said
+
+94
+00:03:54,879 --> 00:03:59,280
+something but you might not and you
+
+95
+00:03:56,799 --> 00:04:01,480
+you'll get a notification but if you if
+
+96
+00:03:59,280 --> 00:04:04,439
+you can't find that again you can use
+
+97
+00:04:01,480 --> 00:04:06,959
+these same tools down here uh to grab
+
+98
+00:04:04,439 --> 00:04:09,360
+the threads tool and just bring that or
+
+99
+00:04:06,959 --> 00:04:13,640
+let's put it down here even and you can
+
+100
+00:04:09,360 --> 00:04:16,880
+see that it was closed um but you can do
+
+101
+00:04:13,640 --> 00:04:19,079
+uh view the the resolved ones and you
+
+102
+00:04:16,880 --> 00:04:22,199
+can say
+
+103
+00:04:19,079 --> 00:04:23,400
+um um you know it's it's spelled hello
+
+104
+00:04:22,199 --> 00:04:27,560
+you can see what I said there and things
+
+105
+00:04:23,400 --> 00:04:29,960
+like that um which is uh oops sorry
+
+106
+00:04:27,560 --> 00:04:32,000
+didn't mean to click that so that's how
+
+107
+00:04:29,960 --> 00:04:35,039
+you can get help with this thing but the
+
+108
+00:04:32,000 --> 00:04:36,800
+really nice things about this um so say
+
+109
+00:04:35,039 --> 00:04:38,680
+you're you're not you're not struggling
+
+110
+00:04:36,800 --> 00:04:41,400
+and you just want to run this thing for
+
+111
+00:04:38,680 --> 00:04:44,800
+most programs you can just hit run um
+
+112
+00:04:41,400 --> 00:04:48,800
+and it'll it'll look for main here um
+
+113
+00:04:44,800 --> 00:04:51,039
+and try to uh essentially execute um the
+
+114
+00:04:48,800 --> 00:04:53,759
+main main program in C++ it just knows
+
+115
+00:04:51,039 --> 00:04:55,759
+how to do that um but as we get a little
+
+116
+00:04:53,759 --> 00:04:57,440
+more complex that might not work out so
+
+117
+00:04:55,759 --> 00:04:58,880
+great so you might want to compile it
+
+118
+00:04:57,440 --> 00:05:00,800
+yourself and this will especially be
+
+119
+00:04:58,880 --> 00:05:02,840
+true if we're starting to use multiple
+
+120
+00:05:00,800 --> 00:05:04,600
+files and headers and things like that
+
+121
+00:05:02,840 --> 00:05:09,639
+so if you wanted to do that you can use
+
+122
+00:05:04,600 --> 00:05:12,880
+the g++ command like this and I actually
+
+123
+00:05:09,639 --> 00:05:14,880
+included that in in this one um oh wait
+
+124
+00:05:12,880 --> 00:05:17,120
+no that's sorry that's that's machine
+
+125
+00:05:14,880 --> 00:05:20,039
+code I made all call copied into the
+
+126
+00:05:17,120 --> 00:05:22,960
+shell Force before the the um the class
+
+127
+00:05:20,039 --> 00:05:26,479
+starts so you can use g++ and all that
+
+128
+00:05:22,960 --> 00:05:29,080
+is is the gnu the open source C compiler
+
+129
+00:05:26,479 --> 00:05:31,080
+and Linker and what you can do then is
+
+130
+00:05:29,080 --> 00:05:34,720
+just give it the name of the file you
+
+131
+00:05:31,080 --> 00:05:36,960
+want to run or or compile I'm sorry and
+
+132
+00:05:34,720 --> 00:05:40,319
+we'll see over here that it's going to
+
+133
+00:05:36,960 --> 00:05:42,600
+kick out an a.out file um because this
+
+134
+00:05:40,319 --> 00:05:43,840
+is a Linux environment this is actually
+
+135
+00:05:42,600 --> 00:05:46,680
+executable this would be like an
+
+136
+00:05:43,840 --> 00:05:48,199
+executable in Windows and the exe file
+
+137
+00:05:46,680 --> 00:05:50,199
+but here it's a. out and you can
+
+138
+00:05:48,199 --> 00:05:54,120
+actually run it
+
+139
+00:05:50,199 --> 00:05:56,639
+um and you uh like like so and you'll
+
+140
+00:05:54,120 --> 00:05:58,440
+want to give it this uh uh period
+
+141
+00:05:56,639 --> 00:06:00,280
+forward slash if you're unfamiliar with
+
+142
+00:05:58,440 --> 00:06:02,520
+Linux this basically says say run in the
+
+143
+00:06:00,280 --> 00:06:06,560
+current directory I think it works
+
+144
+00:06:02,520 --> 00:06:09,479
+though even if you don't do that um nope
+
+145
+00:06:06,560 --> 00:06:12,720
+it didn't so make sure you put the
+
+146
+00:06:09,479 --> 00:06:13,759
+the a.out um and you'll notice here if I
+
+147
+00:06:12,720 --> 00:06:17,560
+change
+
+148
+00:06:13,759 --> 00:06:20,240
+this like so and save it um this is
+
+149
+00:06:17,560 --> 00:06:21,919
+still going to just say hello world as
+
+150
+00:06:20,240 --> 00:06:24,639
+we would expect right because we haven't
+
+151
+00:06:21,919 --> 00:06:27,199
+recompiled it we haven't um made new
+
+152
+00:06:24,639 --> 00:06:28,560
+machine code from our source but if I
+
+153
+00:06:27,199 --> 00:06:30,560
+and you can just use the arrow keys
+
+154
+00:06:28,560 --> 00:06:33,240
+that's all I'm doing here you can rerun
+
+155
+00:06:30,560 --> 00:06:35,120
+this and then do a. out and you can see
+
+156
+00:06:33,240 --> 00:06:37,440
+it's it's changed right so that's how
+
+157
+00:06:35,120 --> 00:06:39,960
+you can do that um I'm going to go back
+
+158
+00:06:37,440 --> 00:06:44,000
+out to our team here and show you a
+
+159
+00:06:39,960 --> 00:06:44,000
+slightly different version of
+
+160
+00:06:44,440 --> 00:06:52,240
+this and show you how you might do this
+
+161
+00:06:48,319 --> 00:06:54,400
+uh with a uh multiple multiple files so
+
+162
+00:06:52,240 --> 00:06:56,000
+let's pretend you're you're plugin away
+
+163
+00:06:54,400 --> 00:06:59,680
+um
+
+164
+00:06:56,000 --> 00:07:03,599
+and you um for example make a file like
+
+165
+00:06:59,680 --> 00:07:06,000
+this with a header file like this excuse
+
+166
+00:07:03,599 --> 00:07:07,599
+me and a support file like this and this
+
+167
+00:07:06,000 --> 00:07:10,199
+could be classes or anything right I
+
+168
+00:07:07,599 --> 00:07:13,639
+mean that's what we'll get into very
+
+169
+00:07:10,199 --> 00:07:15,160
+very early on um so we've got where's
+
+170
+00:07:13,639 --> 00:07:17,960
+this I don't know why it's opening
+
+171
+00:07:15,160 --> 00:07:17,960
+multiple
+
+172
+00:07:18,280 --> 00:07:23,199
+this well anyway you'd need a you'd need
+
+173
+00:07:21,599 --> 00:07:25,240
+you know a support file and then of
+
+174
+00:07:23,199 --> 00:07:28,080
+course the implementation file and then
+
+175
+00:07:25,240 --> 00:07:30,039
+we'd have this guy or I'm sorry this guy
+
+176
+00:07:28,080 --> 00:07:33,960
+um and the way you can do that is
+
+177
+00:07:30,039 --> 00:07:37,560
+exactly the same gpp or g++ and what
+
+178
+00:07:33,960 --> 00:07:42,800
+you'd want to do here is give it um main
+
+179
+00:07:37,560 --> 00:07:44,680
+2. CPP um and it will um oh I'm sorry
+
+180
+00:07:42,800 --> 00:07:48,360
+I'm in the I'm in a subdirectory so I'd
+
+181
+00:07:44,680 --> 00:07:52,319
+want to change to make main two like so
+
+182
+00:07:48,360 --> 00:07:55,240
+and then I can compile that thing um now
+
+183
+00:07:52,319 --> 00:07:56,879
+you'll see that it's it can't find this
+
+184
+00:07:55,240 --> 00:08:00,240
+reference and that's because I need to
+
+185
+00:07:56,879 --> 00:08:02,440
+include the header file or I'm sorry the
+
+186
+00:08:00,240 --> 00:08:04,680
+um support file as well I need to
+
+187
+00:08:02,440 --> 00:08:07,080
+compile and Link both of those so in
+
+188
+00:08:04,680 --> 00:08:09,479
+this case I'd want to go main to
+
+189
+00:08:07,080 --> 00:08:12,240
+support. CPP just like that and then
+
+190
+00:08:09,479 --> 00:08:14,840
+main as well um
+
+191
+00:08:12,240 --> 00:08:17,879
+and uh
+
+192
+00:08:14,840 --> 00:08:21,360
+oh let me do this I think it's trying to
+
+193
+00:08:17,879 --> 00:08:25,720
+run let's go
+
+194
+00:08:21,360 --> 00:08:25,720
+main oops
+
+195
+00:08:28,240 --> 00:08:31,919
+and
+
+196
+00:08:30,159 --> 00:08:34,120
+oh well here let me move these back out
+
+197
+00:08:31,919 --> 00:08:35,560
+I tried to get cute with my directories
+
+198
+00:08:34,120 --> 00:08:37,519
+here let's just move these back out here
+
+199
+00:08:35,560 --> 00:08:42,519
+for a sec
+
+200
+00:08:37,519 --> 00:08:46,240
+and do this oh boy
+
+201
+00:08:42,519 --> 00:08:50,640
+um what did I do
+
+202
+00:08:46,240 --> 00:08:50,640
+here oh I'm still in that subd
+
+203
+00:08:55,240 --> 00:09:01,200
+directory oh what did I do here let's
+
+204
+00:08:58,200 --> 00:09:01,200
+see
+
+205
+00:09:07,680 --> 00:09:12,560
+oh I misspelled support here I see so
+
+206
+00:09:10,320 --> 00:09:13,839
+capitalization obviously matters and we
+
+207
+00:09:12,560 --> 00:09:17,800
+can see it now
+
+208
+00:09:13,839 --> 00:09:21,839
+compiles and uh then we can just run
+
+209
+00:09:17,800 --> 00:09:21,839
+main two support much like we did
+
+210
+00:09:25,040 --> 00:09:31,440
+before I'm sorry dot out there we go and
+
+211
+00:09:29,920 --> 00:09:35,200
+we can see it's doing exactly what we
+
+212
+00:09:31,440 --> 00:09:37,360
+want so um this is an executable um and
+
+213
+00:09:35,200 --> 00:09:40,160
+there's some great errors here right uh
+
+214
+00:09:37,360 --> 00:09:42,040
+because I I made some so I'm kind of
+
+215
+00:09:40,160 --> 00:09:43,640
+glad I messed up not intentional I'll be
+
+216
+00:09:42,040 --> 00:09:44,640
+honest with you but you can see what
+
+217
+00:09:43,640 --> 00:09:46,360
+happens when you're in the wrong
+
+218
+00:09:44,640 --> 00:09:49,480
+directory and I think this would even
+
+219
+00:09:46,360 --> 00:09:52,600
+work in a subdirectory now uh let's put
+
+220
+00:09:49,480 --> 00:09:54,959
+it back in main two let's put all these
+
+221
+00:09:52,600 --> 00:09:56,360
+main two ones back in there and I think
+
+222
+00:09:54,959 --> 00:09:59,320
+I could have done I think it was because
+
+223
+00:09:56,360 --> 00:10:01,200
+I just made that one typo so let's let's
+
+224
+00:09:59,320 --> 00:10:03,200
+go and you'd want to change directories
+
+225
+00:10:01,200 --> 00:10:08,160
+right so we'd want to go back into main
+
+226
+00:10:03,200 --> 00:10:12,480
+two like so and then I think we can
+
+227
+00:10:08,160 --> 00:10:14,360
+actually uh see that I bet I get nope it
+
+228
+00:10:12,480 --> 00:10:16,000
+worked there as well oh yeah it's
+
+229
+00:10:14,360 --> 00:10:17,640
+because I was in there so you could work
+
+230
+00:10:16,000 --> 00:10:20,519
+in subd directors if you got more than
+
+231
+00:10:17,640 --> 00:10:25,160
+one now one thing that doesn't work
+
+232
+00:10:20,519 --> 00:10:26,720
+great is um running uh more than one so
+
+233
+00:10:25,160 --> 00:10:29,120
+like when you've got more than one and
+
+234
+00:10:26,720 --> 00:10:30,440
+you try to do this it will it really
+
+235
+00:10:29,120 --> 00:10:33,079
+doesn't like when there's more than one
+
+236
+00:10:30,440 --> 00:10:35,399
+main in the project so that's when you'd
+
+237
+00:10:33,079 --> 00:10:38,560
+want to go to compiling like I just did
+
+238
+00:10:35,399 --> 00:10:41,320
+here so um that's kind of the that part
+
+239
+00:10:38,560 --> 00:10:43,040
+in a nutshell um on how to how to work
+
+240
+00:10:41,320 --> 00:10:45,000
+on the thing once you've got it working
+
+241
+00:10:43,040 --> 00:10:47,079
+so let's say let's let's go clean this
+
+242
+00:10:45,000 --> 00:10:49,000
+up a little and say okay I've got this
+
+243
+00:10:47,079 --> 00:10:51,200
+going and I've read my unit test and
+
+244
+00:10:49,000 --> 00:10:53,440
+things like that
+
+245
+00:10:51,200 --> 00:10:56,399
+um all right so it's going to make new
+
+246
+00:10:53,440 --> 00:10:58,720
+ones and then um all right we got that
+
+247
+00:10:56,399 --> 00:11:00,920
+this is what it's supposed to do you can
+
+248
+00:10:58,720 --> 00:11:03,600
+uh then then simply uh just grab your
+
+249
+00:11:00,920 --> 00:11:08,079
+url here and go back to
+
+250
+00:11:03,600 --> 00:11:12,040
+Canvas uh oops wrong one
+
+251
+00:11:08,079 --> 00:11:12,040
+uh where canus
+
+252
+00:11:13,720 --> 00:11:19,680
+go oh it's in here sorry you can go into
+
+253
+00:11:16,800 --> 00:11:23,639
+the assignment itself and these are set
+
+254
+00:11:19,680 --> 00:11:25,680
+up then all you have to do is go down
+
+255
+00:11:23,639 --> 00:11:28,040
+and this looks different for for me as
+
+256
+00:11:25,680 --> 00:11:30,839
+an instructor but and I can't log in
+
+257
+00:11:28,040 --> 00:11:33,120
+unfortunately uh maybe I could do oh we
+
+258
+00:11:30,839 --> 00:11:35,839
+don't even have any students I don't
+
+259
+00:11:33,120 --> 00:11:37,760
+think let's let's see if this works so I
+
+260
+00:11:35,839 --> 00:11:39,720
+can start the assignment and what you'll
+
+261
+00:11:37,760 --> 00:11:44,040
+get is just this and you can just paste
+
+262
+00:11:39,720 --> 00:11:47,000
+that in there like so and then um or you
+
+263
+00:11:44,040 --> 00:11:48,880
+can even put a web website URL either
+
+264
+00:11:47,000 --> 00:11:50,200
+one it doesn't matter and that'll just
+
+265
+00:11:48,880 --> 00:11:52,839
+give me the link and let me know that
+
+266
+00:11:50,200 --> 00:11:55,240
+you're done and you can even say I'm
+
+267
+00:11:52,839 --> 00:11:57,000
+done so you don't need to work worry
+
+268
+00:11:55,240 --> 00:12:00,040
+with files or anything like that because
+
+269
+00:11:57,000 --> 00:12:02,680
+when you do that then I can go into to
+
+270
+00:12:00,040 --> 00:12:05,200
+here and I can just I can just look at
+
+271
+00:12:02,680 --> 00:12:07,200
+you at your code directly um so we're
+
+272
+00:12:05,200 --> 00:12:09,760
+ready to go I can run it from here I
+
+273
+00:12:07,200 --> 00:12:12,000
+just need to run it um and I can see the
+
+274
+00:12:09,760 --> 00:12:14,079
+exact same stuff you were doing um if
+
+275
+00:12:12,000 --> 00:12:17,320
+you make folders everything works just
+
+276
+00:12:14,079 --> 00:12:20,199
+fine just swimming link so if I go back
+
+277
+00:12:17,320 --> 00:12:21,959
+into the student view here um there's a
+
+278
+00:12:20,199 --> 00:12:25,079
+couple other really nice features in
+
+279
+00:12:21,959 --> 00:12:26,720
+here um if you didn't want to oh and you
+
+280
+00:12:25,079 --> 00:12:28,360
+can see that I actually highlighted it
+
+281
+00:12:26,720 --> 00:12:31,040
+because I'm actually in here right now
+
+282
+00:12:28,360 --> 00:12:34,440
+and you can even see that up here
+
+283
+00:12:31,040 --> 00:12:36,320
+um so there's documents here you can
+
+284
+00:12:34,440 --> 00:12:38,399
+bring in libraries all kinds of stuff
+
+285
+00:12:36,320 --> 00:12:41,440
+from here um if you're using GitHub
+
+286
+00:12:38,399 --> 00:12:44,040
+there's a GitHub extension here
+
+287
+00:12:41,440 --> 00:12:45,399
+um um I might make automated tests and
+
+288
+00:12:44,040 --> 00:12:46,560
+I'll let you know if I do that which
+
+289
+00:12:45,399 --> 00:12:49,320
+will kind of give you a clue if you're
+
+290
+00:12:46,560 --> 00:12:51,800
+on the right track um don't really like
+
+291
+00:12:49,320 --> 00:12:53,399
+those yet but they're kind of cool uh
+
+292
+00:12:51,800 --> 00:12:56,000
+let's see what else can you do with this
+
+293
+00:12:53,399 --> 00:12:58,920
+sucker oh you can you can do a chat as
+
+294
+00:12:56,000 --> 00:13:03,600
+opposed to threads so it's very similar
+
+295
+00:12:58,920 --> 00:13:06,720
+to threads except it's project wide so
+
+296
+00:13:03,600 --> 00:13:08,800
+this project wide and it'll just stay
+
+297
+00:13:06,720 --> 00:13:11,279
+there right and then I could come back
+
+298
+00:13:08,800 --> 00:13:15,279
+in So if I go back over to my instructor
+
+299
+00:13:11,279 --> 00:13:20,160
+view here you can see I have a chat here
+
+300
+00:13:15,279 --> 00:13:24,079
+uh oh sorry chat here and uh I can say
+
+301
+00:13:20,160 --> 00:13:26,120
+yes it is right so we you just get that
+
+302
+00:13:24,079 --> 00:13:27,839
+right back so if you just want General
+
+303
+00:13:26,120 --> 00:13:30,399
+help that's another way to do that and
+
+304
+00:13:27,839 --> 00:13:32,279
+I'll see those um pretty much any time
+
+305
+00:13:30,399 --> 00:13:33,680
+um so if you're if you're offline if
+
+306
+00:13:32,279 --> 00:13:35,720
+you're you know two in the morning it'll
+
+307
+00:13:33,680 --> 00:13:37,519
+just be there when I get up or if it's
+
+308
+00:13:35,720 --> 00:13:39,040
+you know during office hours we can
+
+309
+00:13:37,519 --> 00:13:40,760
+converse that way if you don't want to
+
+310
+00:13:39,040 --> 00:13:43,440
+use microphone in teams like some people
+
+311
+00:13:40,760 --> 00:13:46,120
+don't like to do um you can you can do
+
+312
+00:13:43,440 --> 00:13:48,880
+all that uh lastly I want to show you
+
+313
+00:13:46,120 --> 00:13:51,560
+how to use the debugger which is quite a
+
+314
+00:13:48,880 --> 00:13:54,920
+cool feature um so if you drag a
+
+315
+00:13:51,560 --> 00:13:59,639
+debugger out you can um you can just run
+
+316
+00:13:54,920 --> 00:14:02,199
+this and I think it's a little funky
+
+317
+00:13:59,639 --> 00:14:06,000
+uh with the multiple files but you can
+
+318
+00:14:02,199 --> 00:14:08,320
+set break points and uh when you do that
+
+319
+00:14:06,000 --> 00:14:12,320
+um it's going to show them down here and
+
+320
+00:14:08,320 --> 00:14:14,880
+what it does uh is it actually will um
+
+321
+00:14:12,320 --> 00:14:18,920
+oh I'm sorry so when you have more than
+
+322
+00:14:14,880 --> 00:14:22,519
+one uh one file that's that's actually
+
+323
+00:14:18,920 --> 00:14:24,480
+we're going to need to buug out um I'll
+
+324
+00:14:22,519 --> 00:14:26,480
+put it here I don't think it'll actually
+
+325
+00:14:24,480 --> 00:14:30,680
+trip there and so we bring the debugger
+
+326
+00:14:26,480 --> 00:14:30,680
+out here uh where' It Go
+
+327
+00:14:31,720 --> 00:14:38,600
+why can't I see there it is so we can
+
+328
+00:14:35,720 --> 00:14:41,079
+bring that out and we can uh hopefully
+
+329
+00:14:38,600 --> 00:14:45,120
+play this and it should catch here no
+
+330
+00:14:41,079 --> 00:14:45,120
+it's not quite doing what it should
+
+331
+00:14:47,759 --> 00:14:53,880
+here not entirely sure why that's not I
+
+332
+00:14:51,279 --> 00:14:53,880
+think it might
+
+333
+00:14:57,680 --> 00:15:03,720
+be this works quite nicely uh I just
+
+334
+00:15:00,720 --> 00:15:05,839
+can't figure out why that's not getting
+
+335
+00:15:03,720 --> 00:15:07,600
+caught it should stop there and give you
+
+336
+00:15:05,839 --> 00:15:09,680
+some information about what's going on
+
+337
+00:15:07,600 --> 00:15:12,160
+in the file I'll have to look into that
+
+338
+00:15:09,680 --> 00:15:14,519
+but um I do know that works I don't know
+
+339
+00:15:12,160 --> 00:15:16,279
+what I've what I've borked up here in
+
+340
+00:15:14,519 --> 00:15:17,680
+this demo but just be aware that that
+
+341
+00:15:16,279 --> 00:15:19,680
+that's useful and it'll what it'll do is
+
+342
+00:15:17,680 --> 00:15:22,000
+it give you variables and you can trace
+
+343
+00:15:19,680 --> 00:15:24,120
+them let's see if I can get it going on
+
+344
+00:15:22,000 --> 00:15:27,880
+my end
+
+345
+00:15:24,120 --> 00:15:29,319
+here let's go into here get that out it
+
+346
+00:15:27,880 --> 00:15:31,440
+might have been because highlighted I
+
+347
+00:15:29,319 --> 00:15:36,600
+don't know
+
+348
+00:15:31,440 --> 00:15:36,600
+uh so let's let's grab the debugger
+
+349
+00:15:44,759 --> 00:15:51,440
+here H not quite sure why that's doing
+
+350
+00:15:48,839 --> 00:15:53,319
+that I'll have to look into that but it
+
+351
+00:15:51,440 --> 00:15:54,519
+certainly works I do know it works I
+
+352
+00:15:53,319 --> 00:15:56,519
+just don't know why it's not working
+
+353
+00:15:54,519 --> 00:15:57,920
+right now um might be something to do
+
+354
+00:15:56,519 --> 00:15:59,319
+with the way I was using the console or
+
+355
+00:15:57,920 --> 00:16:01,240
+something
+
+356
+00:15:59,319 --> 00:16:02,880
+so that's kind of how you'll work with
+
+357
+00:16:01,240 --> 00:16:05,079
+most of your projects and things like
+
+358
+00:16:02,880 --> 00:16:06,240
+that um get to know the compiler and the
+
+359
+00:16:05,079 --> 00:16:08,399
+command line it's going to make your
+
+360
+00:16:06,240 --> 00:16:10,839
+life a lot easier the the Run doesn't
+
+361
+00:16:08,399 --> 00:16:13,040
+always work for C++ um and that's why I
+
+362
+00:16:10,839 --> 00:16:14,480
+made this separate video um but it's
+
+363
+00:16:13,040 --> 00:16:16,199
+it's a really nice environment I think
+
+364
+00:16:14,480 --> 00:16:17,600
+it's going to serve us well uh please
+
+365
+00:16:16,199 --> 00:16:19,720
+let me know if you have any questions or
+
+366
+00:16:17,600 --> 00:16:23,120
+or your instructor if it doesn't happen
+
+367
+00:16:19,720 --> 00:16:26,720
+to be me uh for your particular section
+
+368
+00:16:23,120 --> 00:16:28,880
+um and uh we can certainly get going oh
+
+369
+00:16:26,720 --> 00:16:30,480
+the one other thing um I forgot kind of
+
+370
+00:16:28,880 --> 00:16:33,000
+how you get signed up for this during
+
+371
+00:16:30,480 --> 00:16:35,480
+the beginning of the course uh you'll
+
+372
+00:16:33,000 --> 00:16:37,839
+you'll just submit um you'll get an
+
+373
+00:16:35,480 --> 00:16:40,240
+invitation a course invitation Link in
+
+374
+00:16:37,839 --> 00:16:41,959
+the in the week one um and it will
+
+375
+00:16:40,240 --> 00:16:44,240
+generate an email or I'll just send out
+
+376
+00:16:41,959 --> 00:16:45,759
+emails to your student addresses and
+
+377
+00:16:44,240 --> 00:16:48,399
+that will sign you up for replit you'll
+
+378
+00:16:45,759 --> 00:16:49,639
+be automatically in the in the section
+
+379
+00:16:48,399 --> 00:16:52,480
+so look out for those right at the
+
+380
+00:16:49,639 --> 00:16:54,160
+beginning of the section as well um so I
+
+381
+00:16:52,480 --> 00:16:57,160
+think that's everything
+
+382
+00:16:54,160 --> 00:16:57,160
+thanks
